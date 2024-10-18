@@ -3,7 +3,7 @@
 ## 💜 Olá, meu nome é Eric!
 
 <p align="left"> 
-👋 Olá! Sou estudante de Desenvolvimento de Sistemas no SENAI, em busca de uma oportunidade de trabalho na área, com preferência por vagas de home office.
+👋 Sou estudante de Desenvolvimento de Sistemas no SENAI, em busca de uma oportunidade de trabalho na área, com preferência por vagas de home office.
 </p>
 
 <p align="left">
