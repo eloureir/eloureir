@@ -1,33 +1,33 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h1 align="left">Eai tudo bem?✌️</h1>
 
-## 💜 Olá, meu nome é Eric!
+###
 
-<p align="left"> 
-👋 Sou estudante de Desenvolvimento de Sistemas no SENAI, em busca de uma oportunidade de trabalho na área, com preferência por vagas de home office.
-</p>
+<p align="left">Meu nome é Eric e sou estudante de Desenvolvimento de sistemas, de Santa Catarina, Brasil.</p>
 
-<p align="left">
-  🦄 Linguagens: Estou aprendendo lógica da programação em Java e Programação com Arduino.
-</p>
+###
 
-<p align="left">
-  💼 Ferramentas: Python, C++, C, Portugol, Java, Arduino
-</p>
+<h2 align="left">About me</h2>
 
-<p align="left">
-  💌 Seja bem vindo, deixe uma mensagem, ⤵️
-</p>
+###
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-barbosa-loureiro-694bba333/"alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+<p align="left">✨ Pratico Programação desde 2024<br>📚 Atualmente Faço curso de Desenvolvimento de Sistemas no Senai de Santa catarina.<br>🎯 Objetivos: Conseguir completar o meu curso de Inglês e Programção <br>🎲 Nos meus tempos livres eu jogo volei e participo de atividades em grupo.</p>
 
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
